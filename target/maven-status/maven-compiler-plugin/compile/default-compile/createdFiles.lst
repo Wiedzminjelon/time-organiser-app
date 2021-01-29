@@ -1,1 +1,4 @@
+application\core\config\WebAppInitializer.class
+application\core\config\WebConfig.class
 application\core\Main.class
+application\core\controller\DemoController.class
