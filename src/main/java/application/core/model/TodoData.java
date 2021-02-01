@@ -24,7 +24,7 @@ public class TodoData {
     }
 
     // == public methods ==
-    public List<TodoItem> getItem() {
+    public List<TodoItem> getItems() {
         return Collections.unmodifiableList(items);
     }
 

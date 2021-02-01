@@ -12,19 +12,13 @@ public class TodoItem {
     private int id;
     private String title;
     private String details;
-    private LocalDate localDate;
+    private LocalDate deadline;
 
     // = constructors ==
 
-//    public TodoItem(int id, String title, String details) {
-//        this.id = id;
-//        this.title = title;
-//        this.details = details;
-//    }
-
-    public TodoItem(String title, String details, LocalDate localDate) {
+    public TodoItem(String title, String details, LocalDate deadline) {
         this.title = title;
         this.details = details;
-        this.localDate = localDate;
+        this.deadline = deadline;
     }
 }
