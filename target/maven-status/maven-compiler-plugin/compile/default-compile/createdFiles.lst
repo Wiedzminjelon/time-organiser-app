@@ -1,6 +1,0 @@
-application\core\service\DemoService.class
-application\core\config\WebAppInitializer.class
-application\core\Main.class
-application\core\controller\DemoController.class
-application\core\service\DemoServiceImpl.class
-application\core\config\WebConfig.class
