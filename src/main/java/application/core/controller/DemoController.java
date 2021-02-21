@@ -17,7 +17,7 @@ public class DemoController {
     // == fields ==
     private final DemoServiceImpl demoService;
 
-    // == costructors ==
+    // == constructors ==
     @Autowired
     public DemoController(DemoServiceImpl demoService) {
         this.demoService = demoService;
