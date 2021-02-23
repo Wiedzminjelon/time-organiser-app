@@ -14,4 +14,5 @@ public interface TodoItemService {
     void updateItem(TodoItem toUpdate);
 
     TodoData getData();
+
 }
